@@ -1,0 +1,12 @@
+# ignore execution file
+*
+!*/
+.vscode
+!*.c
+!*.cpp
+!*.h
+!*.java
+!*.python
+!*.txt
+!README.md
+!.gitignore

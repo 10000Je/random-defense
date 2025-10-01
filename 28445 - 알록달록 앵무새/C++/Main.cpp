@@ -16,9 +16,9 @@ int main()
 
     set<string> colors = {dad_body, dad_tail, mom_body, mom_tail};
 
-    for(string head : colors)
-        for(string tail : colors)
+    for (string head : colors)
+        for (string tail : colors)
             cout << head << ' ' << tail << '\n';
-    
+
     return 0;
 }
