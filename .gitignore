@@ -8,5 +8,7 @@
 !*.java
 !*.python
 !*.txt
+!*.py
 !README.md
 !.gitignore
+!Pipfile
